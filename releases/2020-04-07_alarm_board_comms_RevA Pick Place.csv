@@ -1,0 +1,19 @@
+Altium Designer Pick and Place Locations
+C:\Users\matt\Dropbox\Ventilator Shit\PCB\alarm_module\alarm_to_uart\Project Outputs for alarm_to_uart\Pick Place\Pick Place for PCB1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       07/04/20
+Time:       19:29
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Footprint","Center-X(mm)","Center-Y(mm)","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)","Layer","Rotation","Comment"
+"C1","CAPC1005X55X25ML05T10","131.0100","121.5000","131.0100","121.5000","131.5000","121.5000","TopLayer","180","GRM155R71C104KA88D"
+"R1","RESC0603(1608)_L","137.5000","119.5000","137.5000","119.5000","137.5000","118.8000","TopLayer","90","120R 5% 0603(1608)"
+"J1","RJ45_59_8P8C_LED","150.0850","117.5000","152.5000","117.5000","146.1500","113.0550","TopLayer","90","RJ45_59_8P8C_LED"
+"U1","ADI-R-8_L","132.5000","117.5000","132.5000","117.5000","130.1500","119.4050","TopLayer","360","ADM3488ARZ"
+"R2","RESC0603(1608)_L","137.5000","115.8000","137.5000","115.8000","137.5000","116.5000","TopLayer","270","120R 5% 0603(1608)"
+"FTDI","HDR1X6","117.5000","111.2700","117.5000","117.6200","117.5000","117.6200","TopLayer","270","Header 6"
